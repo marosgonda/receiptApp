@@ -1,7 +1,8 @@
 {
   "name": "receiptApp",
   "integrations": {
-    "capacitor": {}
+    "capacitor": {},
+    "cordova": {}
   },
   "type": "angular"
 }
